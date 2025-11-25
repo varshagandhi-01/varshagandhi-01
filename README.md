@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m Varsha Gandhi
 
-<!--
-**varshagandhi-01/varshagandhi-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data science / machine learning enthusiast passionate about building meaningful projects, learning new techniques, and contributing to open source.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Do
+- Build machine learning, data science and GenAI projects (recommender systems, predictive models, data pipelines)  
+- Work with Python, pandas, scikitlearn, numpy, matplotlib, streamlit and related tools  
+- Use Docker to containerize and deploy projects  
+- Collaborate on open source projects and share knowledge via GitHub  
+
+My Projects
+
+Here are some of my key repositories:  
+
+ReactorExplorer
+An explorer for power plant reactors based on a recommendation engine
+
