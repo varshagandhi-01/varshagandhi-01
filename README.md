@@ -1,4 +1,4 @@
-Hi, I’m Varsha Gandhi
+Hi, I am Varsha Gandhi
 
 I am a data science / machine learning enthusiast passionate about building meaningful projects, learning new techniques, and contributing to open source.
 
