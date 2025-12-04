@@ -9,13 +9,6 @@ What I Do
 - Use Docker to containerize and deploy projects  
 - Collaborate on open source projects and share knowledge via GitHub  
 
-My Projects
-
-Here are some of my key repositories:  
-
-ReactorExplorer:
-An explorer for power plant reactors based on a recommendation engine
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varshagandhi-01&theme=default)
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=varshagandhi-01&color=green)](https://github.com/antonkomarev/github-profile-views-counter)
